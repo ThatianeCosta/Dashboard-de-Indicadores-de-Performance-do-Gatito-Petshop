@@ -2,7 +2,7 @@
 
 # Visão Geral 🐕🐈
 
-Este repositório contém um projeto dedicado à proprietária da Gatito Petshop, que tem como objetivo expandir seu empreendimento por meio de decisões fundamentadas em dados. Utilizando o Power BI, realizamos uma análise detalhada com base nas informações sobre clientes, produtos e vendas, apresentando os resultados através de gráficos e visuais intuitivos
+Este repositório contém um projeto dedicado à proprietária da Gatito Petshop, que tem como objetivo expandir seu empreendimento por meio de decisões fundamentadas em dados. Utilizando o Power BI, realizamos uma análise detalhada com base nas informações sobre clientes, produtos e vendas, apresentando os resultados através de gráficos e visuais intuitivos.
 
 ## Fases do Projeto 📑
 
