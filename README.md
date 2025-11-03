@@ -50,7 +50,7 @@ Compreendendo que muitos usuários podem acessar os relatórios em dispositivos 
 
 - Arraste e organize os diversos visuais (gráficos, tabelas, etc.) no layout móvel para garantir uma visualização intuitiva e otimizada.
 
-## Conclusão
+## Conclusão ✅
 
 Com essas etapas implementadas, desenvolvemos um relatório dinâmico e visualmente agradável que permitirá à proprietária tomar decisões embasadas para a expansão da Gatito Petshop. Este projeto atende às necessidades atuais e estabelece uma base sólida para futuras análises e crescimento do negócio.
 
