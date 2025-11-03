@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este repositório contém um projeto dedicado à proprietária da Gatito Petshop, Helô, que tem como objetivo expandir seu empreendimento por meio de decisões fundamentadas em dados. Utilizando o Power BI, realizamos uma análise detalhada com base nas informações sobre clientes, produtos e vendas, apresentando os resultados através de gráficos e visuais intuitivos.
+Este repositório contém um projeto dedicado à proprietária da Gatito Petshop, que tem como objetivo expandir seu empreendimento por meio de decisões fundamentadas em dados. Utilizando o Power BI, realizamos uma análise detalhada com base nas informações sobre clientes, produtos e vendas, apresentando os resultados através de gráficos e visuais intuitivos.
 
 ## Fases do Projeto
 
@@ -52,7 +52,7 @@ Compreendendo que muitos usuários podem acessar os relatórios em dispositivos 
 
 ## Conclusão
 
-Com essas etapas implementadas, desenvolvemos um relatório dinâmico e visualmente agradável que permitirá à Helô tomar decisões embasadas para a expansão da Gatito Petshop. Este projeto atende às necessidades atuais e estabelece uma base sólida para futuras análises e crescimento do negócio.
+Com essas etapas implementadas, desenvolvemos um relatório dinâmico e visualmente agradável que permitirá à proprietária tomar decisões embasadas para a expansão da Gatito Petshop. Este projeto atende às necessidades atuais e estabelece uma base sólida para futuras análises e crescimento do negócio.
 
 ---
 
