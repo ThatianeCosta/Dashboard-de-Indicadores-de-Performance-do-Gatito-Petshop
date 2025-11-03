@@ -1,16 +1,16 @@
-# Dashboard-de-Indicadores-de-Performance-do-Gatito-Petshop
+# Dashboard de Indicadores de Performance do Gatito Petshop 🐱🐶
 
-## Visão Geral
+# Visão Geral 🐕🐈
 
 Este repositório contém um projeto dedicado à proprietária da Gatito Petshop, que tem como objetivo expandir seu empreendimento por meio de decisões fundamentadas em dados. Utilizando o Power BI, realizamos uma análise detalhada com base nas informações sobre clientes, produtos e vendas, apresentando os resultados através de gráficos e visuais intuitivos.
 
-## Fases do Projeto
+## Fases do Projeto 📑
 
-### 1. Importação dos Dados
+### 1. Importação dos Dados 𝄜
 
 A primeira fase consistiu na importação das informações disponíveis, que se encontram em planilhas do Excel (.xlsx). A proprietária forneceu planilhas separadas para cada ano, abrangendo 2020, 2021 e 2022. Esses dados foram utilizados para calcular o faturamento total em cada um desses anos.
 
-### 2. Desenvolvimento do Dashboard
+### 2. Desenvolvimento do Dashboard 📊
 
 Após a importação dos dados, criamos um dashboard personalizado que inclui os seguintes elementos:
 
@@ -21,11 +21,11 @@ Após a importação dos dados, criamos um dashboard personalizado que inclui os
 - **Text Filter:** Para facilitar a busca de informações específicas.
 - **Gráficos de Área:** Para analisar as tendências de vendas ao longo do tempo.
 
-### 3. Personalização do Dashboard
+### 3. Personalização do Dashboard 👩🏻‍💻
 
 Realizamos uma personalização cuidadosa dos visuais para refletir a identidade visual da Gatito Petshop, garantindo que as cores e fontes refletissem a essência do negócio.
 
-### 4. Otimização para Dispositivos Móveis
+### 4. Otimização para Dispositivos Móveis 🤳🏻
 
 Compreendendo que muitos usuários podem acessar os relatórios em dispositivos móveis, otimizamos o layout da seguinte maneira:
 
