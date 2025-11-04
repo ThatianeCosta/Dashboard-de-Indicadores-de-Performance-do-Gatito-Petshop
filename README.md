@@ -2,58 +2,53 @@
 
 # Visão Geral 🐕🐈
 
-Este repositório contém um projeto dedicado à proprietária da Gatito Petshop, que tem como objetivo expandir seu empreendimento por meio de decisões fundamentadas em dados. Utilizando o Power BI, realizamos uma análise detalhada com base nas informações sobre clientes, produtos e vendas, apresentando os resultados através de gráficos e visuais intuitivos.
+Este repositório abriga um projeto criado para a proprietária do Gatito Petshop, que busca ampliar seu negócio por meio de decisões fundamentadas em dados. Utilizando o Power BI, realizamos análises detalhadas com base nas informações disponíveis sobre clientes, produtos e vendas, apresentando os resultados de maneira visual e acessível.
 
-## Fases do Projeto 📑
+## Objetivos do Projeto 📑
 
-### 1. Importação dos Dados 𝄜
+O objetivo central deste projeto é desenvolver um painel no Power BI que permita à proprietária observar e analisar métricas essenciais para compreender o desempenho de sua empresa e tomar decisões estratégicas. As principais demandas identificadas foram:
 
-A primeira fase consistiu na importação das informações disponíveis, que se encontram em planilhas do Excel (.xlsx). A proprietária forneceu planilhas separadas para cada ano, abrangendo 2020, 2021 e 2022. Esses dados foram utilizados para calcular o faturamento total em cada um desses anos.
+- **Receita Total:** Monitoramento do faturamento ao longo dos últimos anos para avaliar o crescimento do negócio.
+- **Receita por Marca:** Visualização do faturamento por marca para identificar quais produtos possuem maior volume de vendas.
+- **Gerenciamento de Estoque:** Acompanhamento dos itens disponíveis para evitar a falta de produtos populares ou o acúmulo de itens não vendidos.
+- **Análise de Gênero:** Identificação do gênero dos clientes que mais compram na loja, a fim de direcionar campanhas de marketing.
+- **Média de Pets por Cliente:** Cálculo da média de animais de estimação por cliente para ajustar a oferta de produtos.
 
-### 2. Desenvolvimento do Dashboard 📊
+## Bases de Dados 𝄜
+Para atender a essas necessidades, a proprietária forneceu as seguintes fontes de dados:
 
-Após a importação dos dados, criamos um dashboard personalizado que inclui os seguintes elementos:
+- **Clientes:** Arquivo em formato TXT.
+- **Produtos:** Arquivo disponível no Google Sheets.
+- **Vendas:** Diversas planilhas contidas em uma pasta de trabalho do Excel.
 
-- **Cartões:** Para mostrar indicadores chave, como o faturamento total.
-- **Segmentação de Dados:** Para possibilitar filtros dinâmicos com diversas categorias.
-- **Gráficos de Pizza e Barras Clusterizadas:** Para visualizar as vendas por tipo de produto.
-- **Image Grid:** Para exibir imagens dos produtos ou da loja.
-- **Text Filter:** Para facilitar a busca de informações específicas.
-- **Gráficos de Área:** Para analisar as tendências de vendas ao longo do tempo.
+### Etapas do Projeto 📊
 
-### 3. Personalização do Dashboard 👩🏻‍💻
+1. **Importação de Dados**
+   A primeira fase envolveu a importação dos arquivos disponíveis no formato .xlsx, que incluem planilhas separadas por ano (2020, 2021 e 2022). Esses dados foram utilizados para calcular a receita total.
 
-Realizamos uma personalização cuidadosa dos visuais para refletir a identidade visual da Gatito Petshop, garantindo que as cores e fontes refletissem a essência do negócio.
+2. **Criação do Painel**
+   Após a importação, desenvolvemos um painel personalizável com os seguintes componentes:
 
-### 4. Otimização para Dispositivos Móveis 🤳🏻
+   - **Cartões:** Para exibir indicadores chave, como a receita total.
+   - **Segmentação de Dados:** Para permitir filtros dinâmicos com base em diferentes categorias.
+   - **Gráficos de Pizza e Barras Clusterizadas:** Para visualizar as vendas por categoria de produtos.
+   - **Grade de Imagens:** Para mostrar imagens dos produtos ou da loja.
+   - **Filtro de Texto:** Para facilitar a pesquisa de dados específicos.
+   - **Gráficos de Área:** Para analisar as tendências de vendas ao longo do tempo.
 
-Compreendendo que muitos usuários podem acessar os relatórios em dispositivos móveis, otimizamos o layout da seguinte maneira:
+3. **Estilização do Painel** 👩🏻‍💻
+   Realizamos uma estilização cuidadosa para refletir a identidade visual do Gatito Petshop, garantindo que as cores e fontes estivessem alinhadas com a imagem da marca.
 
-#### A. Acesso ao Layout Móvel
+4. **Otimização para Dispositivos Móveis** 🤳🏻
+   Considerando que muitos usuários acessarão os relatórios por meio de dispositivos móveis, otimizar o layout foi essencial:
 
-- Para acessar o layout móvel, utilize o ícone de celular na barra de ferramentas ou na guia "Exibição".
-
-#### B. Customização do Visual Móvel
-
-- O Power BI pode gerar um layout de forma automática, mas recomenda-se realizar ajustes adicionais para melhor experiência do usuário.
-
-#### C. Ajustes na Tela de Fundo
-
-- Modifique o papel de parede e a cor de fundo do layout móvel para criar uma visualização atraente.
-
-#### D. Inclusão de Formas
-
-- Devido a atualizações recentes no Power BI, pode ser necessário adicionar uma forma (retângulo) para definir a cor de fundo no layout móvel.
-- Ajuste as dimensões da forma para cobrir todo o fundo do layout.
-
-#### E. Organização dos Visuais
-
-- Arraste e organize os diversos visuais (gráficos, tabelas, etc.) no layout móvel para garantir uma visualização intuitiva e otimizada.
+   - **Acesso ao Layout Móvel:** Utilize o ícone de celular na barra de ferramentas ou na guia "Exibição".
+   - **Personalização do Visual Móvel:** Embora o Power BI gere um layout automático, sugerimos personalizações adicionais para melhorar a experiência do usuário.
+   - **Ajustes de Papel de Parede e Fundo:** Modificamos a cor de fundo e o papel de parede para criar uma aparência atraente.
+   - **Adição de Formas:** Adicionamos formas retangulares para definir a cor de fundo no layout móvel.
+   - **Organização de Visuais:** Organizar os diversos visuais no layout móvel para garantir uma visualização otimizada e intuitiva.
 
 ## Conclusão ✅
+Com essas etapas, criamos um relatório dinâmico e atraente que permitirá à Helô tomar decisões bem-informadas para a expansão do Gatito Petshop. Este projeto não apenas atende às suas necessidades imediatas, mas também estabelece uma base sólida para futuras análises e crescimento do negócio.
 
-Com essas etapas implementadas, desenvolvemos um relatório dinâmico e visualmente agradável que permitirá à proprietária tomar decisões embasadas para a expansão da Gatito Petshop. Este projeto atende às necessidades atuais e estabelece uma base sólida para futuras análises e crescimento do negócio.
-
----
-
-Se você é um colaborador ou desenvolvedor interessado em contribuir para este projeto, sinta-se à vontade para explorar o repositório, fazer sugestões e submeter pull requests!
+Se você é um colaborador ou desenvolvedor interessado em contribuir com este projeto, fique à vontade para explorar o repositório, fazer sugestões e enviar pull requests!
