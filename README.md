@@ -24,12 +24,14 @@ Para atender a essas necessidades, a proprietária forneceu as seguintes fontes 
 ### Etapas do Projeto 📊
 
 1. **Importação de Dados**
-   A primeira fase envolveu a importação dos arquivos disponíveis no formato .xlsx, que incluem planilhas separadas por ano (2020, 2021 e 2022). Esses dados foram utilizados para calcular a receita total.
+   
+   A primeira fase envolveu a importação dos arquivos disponíveis no formato .xlsx, que incluem planilhas separadas por ano (2020, 2021 e 2022). Esses dados foram utilizados para calcular o faturamento total.
 
 2. **Criação do Painel**
+
    Após a importação, desenvolvemos um painel personalizável com os seguintes componentes:
 
-   - **Cartões:** Para exibir indicadores chave, como a receita total.
+   - **Cartões:** Para exibir indicadores chave, como o faturamento total.
    - **Segmentação de Dados:** Para permitir filtros dinâmicos com base em diferentes categorias.
    - **Gráficos de Pizza e Barras Clusterizadas:** Para visualizar as vendas por categoria de produtos.
    - **Grade de Imagens:** Para mostrar imagens dos produtos ou da loja.
@@ -37,9 +39,11 @@ Para atender a essas necessidades, a proprietária forneceu as seguintes fontes 
    - **Gráficos de Área:** Para analisar as tendências de vendas ao longo do tempo.
 
 3. **Estilização do Painel** 👩🏻‍💻
+
    Realizamos uma estilização cuidadosa para refletir a identidade visual do Gatito Petshop, garantindo que as cores e fontes estivessem alinhadas com a imagem da marca.
 
 4. **Otimização para Dispositivos Móveis** 🤳🏻
+
    Considerando que muitos usuários acessarão os relatórios por meio de dispositivos móveis, otimizar o layout foi essencial:
 
    - **Acesso ao Layout Móvel:** Utilize o ícone de celular na barra de ferramentas ou na guia "Exibição".
@@ -49,6 +53,7 @@ Para atender a essas necessidades, a proprietária forneceu as seguintes fontes 
    - **Organização de Visuais:** Organizar os diversos visuais no layout móvel para garantir uma visualização otimizada e intuitiva.
 
 ## Conclusão ✅
+
 Com essas etapas, criamos um relatório dinâmico e atraente que permitirá à Helô tomar decisões bem-informadas para a expansão do Gatito Petshop. Este projeto não apenas atende às suas necessidades imediatas, mas também estabelece uma base sólida para futuras análises e crescimento do negócio.
 
 Se você é um colaborador ou desenvolvedor interessado em contribuir com este projeto, fique à vontade para explorar o repositório, fazer sugestões e enviar pull requests!
