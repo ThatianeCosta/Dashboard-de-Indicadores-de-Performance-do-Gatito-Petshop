@@ -23,11 +23,11 @@ Para atender a essas necessidades, a proprietária forneceu as seguintes fontes 
 
 ### Etapas do Projeto 📊
 
-1. **Importação de Dados**
+1. **Importação de Dados** 📶
    
    A primeira fase envolveu a importação dos arquivos disponíveis no formato .xlsx, que incluem planilhas separadas por ano (2020, 2021 e 2022). Esses dados foram utilizados para calcular o faturamento total.
 
-2. **Criação do Painel**
+2. **Criação do Painel** 🗂️
 
    Após a importação, desenvolvemos um painel personalizável com os seguintes componentes:
 
@@ -54,6 +54,6 @@ Para atender a essas necessidades, a proprietária forneceu as seguintes fontes 
 
 ## Conclusão ✅
 
-Com essas etapas, criamos um relatório dinâmico e atraente que permitirá à Helô tomar decisões bem-informadas para a expansão do Gatito Petshop. Este projeto não apenas atende às suas necessidades imediatas, mas também estabelece uma base sólida para futuras análises e crescimento do negócio.
+Com essas etapas, criamos um relatório dinâmico e atraente que permitirá à proprietária tomar decisões bem-informadas para a expansão do Gatito Petshop. Este projeto não apenas atende às suas necessidades imediatas, mas também estabelece uma base sólida para futuras análises e crescimento do negócio.
 
 Se você é um colaborador ou desenvolvedor interessado em contribuir com este projeto, fique à vontade para explorar o repositório, fazer sugestões e enviar pull requests!
