@@ -8,8 +8,8 @@ Este repositório abriga um projeto criado para a proprietária do Gatito Petsho
 
 O objetivo central deste projeto é desenvolver um painel no Power BI que permita à proprietária observar e analisar métricas essenciais para compreender o desempenho de sua empresa e tomar decisões estratégicas. As principais demandas identificadas foram:
 
-- **Receita Total:** Monitoramento do faturamento ao longo dos últimos anos para avaliar o crescimento do negócio.
-- **Receita por Marca:** Visualização do faturamento por marca para identificar quais produtos possuem maior volume de vendas.
+- **Faturamento Total:** Monitoramento do faturamento ao longo dos últimos anos para avaliar o crescimento do negócio.
+- **Faturamento por Marca:** Visualização do faturamento por marca para identificar quais produtos possuem maior volume de vendas.
 - **Gerenciamento de Estoque:** Acompanhamento dos itens disponíveis para evitar a falta de produtos populares ou o acúmulo de itens não vendidos.
 - **Análise de Gênero:** Identificação do gênero dos clientes que mais compram na loja, a fim de direcionar campanhas de marketing.
 - **Média de Pets por Cliente:** Cálculo da média de animais de estimação por cliente para ajustar a oferta de produtos.
