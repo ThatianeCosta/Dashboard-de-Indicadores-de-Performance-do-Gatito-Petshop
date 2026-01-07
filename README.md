@@ -14,7 +14,7 @@ O objetivo central deste projeto é desenvolver um painel no Power BI que permit
 - **Faturamento por Marca:** Visualização do faturamento por marca para identificar quais produtos possuem maior volume de vendas.
 - **Gerenciamento de Estoque:** Acompanhamento dos itens disponíveis para evitar a falta de produtos populares ou o acúmulo de itens não vendidos.
 - **Análise de Gênero:** Identificação do gênero dos clientes que mais compram na loja, a fim de direcionar campanhas de marketing.
-- **Média de Pets por Cliente:** Cálculo da média de animais de estimação por cliente para ajustar a oferta de produtos.
+- **Média de Pets por Cliente:** Cálculo da média de animais de estimação por cliente para ajustar a oferta de produtos
 
 ## Bases de Dados 𝄜
 Para atender a essas necessidades, a proprietária forneceu as seguintes fontes de dados:
