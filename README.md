@@ -8,7 +8,7 @@ Este repositório abriga um projeto criado para a proprietária do Gatito Petsho
 
 ## Objetivos do Projeto 📑
 
-O objetivo central deste projeto é desenvolver um painel no Power BI que permita à proprietária observar e analisar métricas essenciais para compreender o desempenho de sua empresa e tomar decisões estratégicas. As principais demandas identificadas foram
+O objetivo central deste projeto é desenvolver um painel no Power BI que permita à proprietária observar e analisar métricas essenciais para compreender o desempenho de sua empresa e tomar decisões estratégicas. As principais demandas identificadas foram:
 
 - **Faturamento Total:** Monitoramento do faturamento ao longo dos últimos anos para avaliar o crescimento do negócio.
 - **Faturamento por Marca:** Visualização do faturamento por marca para identificar quais produtos possuem maior volume de vendas.
