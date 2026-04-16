@@ -21,7 +21,7 @@ Para atender a essas necessidades, a proprietária forneceu as seguintes fontes 
 
 - **Clientes:** Arquivo em formato TXT.
 - **Produtos:** Arquivo disponível no Google Sheets.
-- **Vendas:** Diversas planilhas contidas em uma pasta de trabalho do Excel
+- **Vendas:** Diversas planilhas contidas em uma pasta de trabalho do Excel.
 
 ### Etapas do Projeto 📊
 
