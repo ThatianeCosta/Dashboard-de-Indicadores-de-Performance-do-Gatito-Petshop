@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/d998003c-a1e5-4d75-a799-000b8e348421
 
 # Visão Geral 🐕🐈
 
-Este repositório abriga um projeto criado para a proprietária do Gatito Petshop, que busca ampliar seu negócio por meio de decisões fundamentadas em dados. Utilizando o Power BI, realizamos análises detalhadas com base nas informações disponíveis sobre clientes, produtos e vendas, apresentando os resultados de maneira visual e acessível
+Este repositório abriga um projeto criado para a proprietária do Gatito Petshop, que busca ampliar seu negócio por meio de decisões fundamentadas em dados. Utilizando o Power BI, realizamos análises detalhadas com base nas informações disponíveis sobre clientes, produtos e vendas, apresentando os resultados de maneira visual e acessível.
 
 ## Objetivos do Projeto 📑
 
